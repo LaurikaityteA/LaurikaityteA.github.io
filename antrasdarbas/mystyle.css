@@ -1,0 +1,30 @@
+		h1 {color:blue}
+		body {background-color:rgb(255, 16, 71);}
+		p { font-style:italic;
+			font-size:20pt;
+			text-align:center;
+			font-weight: bold;}
+		.antrašte {text-align:center;
+					color:black;
+					font-size:50pt;}
+		.lentele { width:0%;}
+		.eilute {background-color:orange;
+				font-size:20pt;}
+		#autorius {text-align:right;
+				   color:black;}
+
+a:hover {
+	color:red;
+}
+a:link {
+	text-decoration:none;
+}
+table, td{
+		padding: 0px;
+		border: 5px solid black;
+		border-collapse:collapse;
+}
+table {
+	margin:auto;
+	text-align: center;	
+}
