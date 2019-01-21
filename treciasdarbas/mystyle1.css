@@ -1,0 +1,77 @@
+div {
+	margin:auto;
+	height:300px;
+	width:300px;
+	float:left;
+	margin-right:20px;
+}
+.patspirmas {
+	height:100px;
+	width:100%;
+	background-color;
+	border: 15px solid transparent;
+}
+.pirmas {
+	background-color:lightblue;
+	height:380px;
+	width:500px;
+	border:10px solid black;
+	margin-left:25px;
+	margin-top:20px;
+}
+.main {
+	background-color:black;
+	width:200px;
+	float:right;
+	margin-bottom:220px;
+	margin-top:220px;
+	margin-right:90px;
+	border: 5px solid white;
+}
+.image {
+	background-image:url("https://i2.alfi.lt/32283/79/76.jpg");
+	border: 5px solid white;
+}
+.image1 {
+	background-image:url("kava.jpg");
+	border: 5px solid white;
+}
+.image2 {
+	background-image:url("kaledos.jpg");
+	border: 5px solid white;
+}
+.tekstas {
+	text-align:center;
+	height:60px;
+	border: 5px solid white;
+}
+.kabutes {
+	font-size:30px;
+}
+p {
+	color:white;
+	font-size:25px;
+	text-align:center;
+}
+a:link {
+	color:black;
+}
+a:visited {
+	color:black;
+}
+.bandymas {
+	background-color:transparent;
+	height:860px;
+	width:60%;
+	margin-left:350px;
+	font-size:25px;
+	text-align:center;
+	border: 5px solid white;
+}
+body {
+	background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/YYrb1C5/large-ocean-waves-at-night_hielyoz5_thumbnail-full01.png");
+}
+background-image:url("https://s3-us-west-2.amazonaws.com/lifestylepubs.wordpress/app/uploads/prod/2017/06/starry-night-5.jpg")
+https://s2.15min.lt/images/photos/2016/02/29/original/dangaus-kunai-56d47e728d207.jpg
+https://stockagehelloassoprod.blob.core.windows.net/images/logos/max-asso-55868209190f4ae9b3bb4a911f7c0586.jpg
+https://stockagehelloassoprod.blob.core.windows.net/images/logos/max-asso-55868209190f4ae9b3bb4a911f7c0586.jpg
